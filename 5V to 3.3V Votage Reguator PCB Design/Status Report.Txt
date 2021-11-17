@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Voltage-Regulator-Crcuit1.PcbDoc]
+   Generated File[Voltage-Regulator-Crcuit1.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:38:09 On 17/11/2021
